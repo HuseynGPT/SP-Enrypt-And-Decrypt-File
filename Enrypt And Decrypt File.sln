@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enrypt And Decrypt File", "Enrypt And Decrypt File\Enrypt And Decrypt File.csproj", "{EF86216D-0020-4726-951C-60520D687D70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF86216D-0020-4726-951C-60520D687D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF86216D-0020-4726-951C-60520D687D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF86216D-0020-4726-951C-60520D687D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF86216D-0020-4726-951C-60520D687D70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A14B2421-8A11-42A0-8A6D-F4B2DB1BCD99}
+	EndGlobalSection
+EndGlobal
